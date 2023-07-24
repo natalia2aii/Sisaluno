@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: #eef2f5;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.topo {
+    background-color: #47a447;
+    height: 100px;
+}
+
+.meio {
+    background-color: #dff0d8;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #47a447;
+}
+
+.box {
+    font-weight: bold;
+}
+
+.id {
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+select {
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.botao {
+    background-color: #47a447;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
